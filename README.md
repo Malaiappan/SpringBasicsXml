@@ -1,4 +1,4 @@
 SpringBasicsXml
 ===============
 
-Spring core concepts with xml based configurations
+Sample spring core concepts with xml based configurations
